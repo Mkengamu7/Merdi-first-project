@@ -27,4 +27,4 @@ You can view the live website here:
 [Replace this with your GitHub Pages URL, e.g., https://yourusername.github.io/london-project/]
 
 ## 👤 Author
-* **Merdi Kengamu** - [Your GitHub Profile Link]
+* **Merdi Kengamu** - [(https://github.com/Mkengamu7/london.git)]
